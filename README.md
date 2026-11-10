@@ -1,6 +1,6 @@
 # TP7 DPBO
 
-# Janji
+# Jandji
 Saya <strong>Muhamad Hasbie Assyattar</strong> dengan <strong>NIM 2508288</strong> mengerjakan Tugas Praktikum 7 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Desain Kelas
@@ -55,8 +55,18 @@ Program ini merupakan website sistem informasi rental kamera berbasis PHP Native
 2. Di menu **Pelanggan**, admin dapat menambahkan data penyewa baru (nama, no telp, NIK, tempat tanggal lahir), melihat tabel seluruh pelanggan, mengedit data, maupun menghapus data pelanggan.
 3. Di menu **Kamera**, admin dapat mengelola unit kamera yang disewakan (merek, jenis seperti DSLR/Mirrorless, tipe model, harga sewa per hari, dan status ketersediaan).
 4. Di menu **Transaksi Rental**, admin dapat mencatat peminjaman kamera dengan memilih pelanggan dan unit kamera dari dropdown dinamis. Sistem dilengkapi skrip otomatis yang menghitung total biaya berdasarkan selisih hari sewa dikalikan tarif harian unit kamera.
-5. Ketika transaksi sewa berhasil ditambahkan, status kamera yang dipilih akan otomatis diperbarui menjadi `'Disewa'`. Jika transaksi rental dihapus, unit kamera terkait akan otomatis kembali berstatus `'Tersedia'`.
-6. Seluruh proses manipulasi database (CRUD) pada ketiga tabel menggunakan *Prepared Statement* murni untuk menjamin keamanan dari celah SQL Injection.
+5. Ketika transaksi sewa berhasil ditambahkan, status kamera yang dipilih akan otomatis diperbarui menjadi `'Disewa'`. Jika transaksi rental dihapus, unit
+6. kamera terkait akan otomatis kembali berstatus `'Tersedia'`.
+7. Seluruh proses manipulasi database (CRUD) pada ketiga tabel menggunakan *Prepared Statement* murni untuk menjamin keamanan dari celah SQL Injection.
 
 ## Dokumentasi
+https://github.com/user-attachments/assets/fafb13c0-6671-4ae6-af2e-bba4809e9df8
+
+
+
+
+
+
+
+
 
